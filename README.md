@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neha Koli
-- 👀 I’m interested in data science , Machine learning
-- 🌱 I’m currently learning Mysql,python,Web Scraping
+- 👀 I’m interested in data science , Machine learning.
+- 🌱 I’m currently learning Mysql,python,Web Scraping.
 
 
 

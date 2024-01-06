@@ -2,17 +2,17 @@
 - :dart: I’m interested in data science , Machine learning.
 - 🌱 I’m currently learning Mysql,python,Web Scraping.
 
-## Projects
+## :file_folder:Projects
 - https://github.com/Nehakoli23/sql_project
 - https://github.com/Nehakoli23/Web_Scrapping_Project
 
-## Skills
+## :gem:Skills
 - Python
 - Html
 - web Srapping
 - Sql
 
-## Education
+## :books:Education
 - BSC IT (graduation)
 - MSC IT (Post graduation)
 - Master in data Science & Analytics with AI (**Currently learning**)

@@ -1,6 +1,6 @@
 - :handshake: Hi, I’m Neha Koli. Welcome To my Githhub repository! This Portfolio showcases my jourey in data science,ecompassing various projects and experiements I've Worked on
 - :dart: I’m interested in data science , Machine learning.
-- 🌱 I’m currently learning Mysql,python,Web Scraping.
+- 🌱 I’m currently learning Mysql,python,Web Scraping,data analysis.
 
 ## :file_folder:Projects
 - https://github.com/Nehakoli23/sql_project

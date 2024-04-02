@@ -14,9 +14,9 @@
 - Sql
 
 ## :books:Education
-- BSC IT (graduation)
-- MSC IT (Post graduation)
-- Master in data Science & Analytics with AI (**Currently learning**)
+- BSC IT 
+- MSC IT Pursuing
+- data Science & Analytics with AI (**Currently learning**)
 
   ## Linkedin Profile
   https://in.linkedin.com/in/neha-koli-445506251?trk=people-guest_people_search-card

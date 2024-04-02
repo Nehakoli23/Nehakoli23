@@ -15,7 +15,7 @@
 
 ## :books:Education
 - BSC IT 
-- MSC IT Pursuing
+- MSC IT (Pursuing)
 - data Science & Analytics with AI (**Currently learning**)
 
   ## Linkedin Profile

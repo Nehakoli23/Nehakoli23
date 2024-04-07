@@ -10,12 +10,12 @@
 ## :gem:Skills
 - Python
 - Html
-- web Srapping
+- Excel
 - Sql
 
 ## :books:Education
 - BSC IT 
-- MSC IT (Pursuing)
+- MSC IT 
 - data Science & Analytics with AI (**Currently learning**)
 
   ## Linkedin Profile

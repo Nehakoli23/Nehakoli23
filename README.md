@@ -5,7 +5,8 @@
 ## :file_folder:Projects
 - https://github.com/Nehakoli23/sql_project
 - https://github.com/Nehakoli23/Web_Scrapping_Project
-- https://github.com/Nehakoli23/Vehicle-Registraetion-Activity 
+- https://github.com/Nehakoli23/Vehicle-Registraetion-Activity
+- https://github.com/Nehakoli23/Ecommerce-sales-analysis 
 
 ## :gem:Skills
 - Python
